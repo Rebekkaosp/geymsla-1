@@ -45,6 +45,14 @@ void setup() {
 }
 ```
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+
+```
 **Feitur texti með *skáletrum texta***
 
 *Skakkur \*texti*
