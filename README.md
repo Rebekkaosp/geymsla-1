@@ -11,7 +11,9 @@ texti
 - hlutur 1
 - hlutur 2 
 - hlutur 3
-    - hlutur 3.5
+    - hlutur 1
+    - hlutur 2
+    - hlutur 3
 
 1. hlutur
 1. hlutur
