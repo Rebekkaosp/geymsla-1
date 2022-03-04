@@ -14,16 +14,16 @@
 
 >Hér kemur tilvísun í einhvern texta
 
-## Listi
-
-## Raðaður listi
-
 > hér kemmur flott setning
+
+## Listi
 
 - hlutur 1
 - hlutur 2 
 - hlutur 3
     - hlutur 1
+## Raðaður listi
+
 1. hlutur
 1. hlutur
 1. hlutur
